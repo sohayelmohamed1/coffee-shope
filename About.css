@@ -1,0 +1,69 @@
+body {
+background-color: rgb(210, 182, 141);
+text-align: center;
+}
+a:hover {
+
+    color: rgb(3, 61, 42);
+    
+    background-color: blanchedalmond;
+
+}
+a::selection{
+background-color: bisque;
+}
+img{
+    text-align: left;
+}
+a:active {
+
+    color: blanchedalmond;
+}
+a:visited{
+color: black;
+   background-color: rgb(254, 223, 182);
+}
+a{
+    text-decoration: none;
+}
+
+a:active {
+
+    color: blanchedalmond;
+}
+ body{
+ background-color: rgb(210, 182, 141);
+ }
+a:hover {
+
+    color: rgb(3, 61, 42);
+    
+    background-color: blanchedalmond;
+
+}
+a::selection{
+background-color: bisque;
+}
+img{
+    text-align: left;
+}
+a:active {
+
+    color: blanchedalmond;
+}
+a:visited{
+color: black;
+   background-color: rgb(254, 223, 182);
+}
+a{
+    text-decoration: none;
+}
+
+a:active {
+
+    color: blanchedalmond;
+}
+
+button{
+    background-color: rgb(168, 142, 103);
+}
