@@ -1,0 +1,49 @@
+ body{
+ background-color: rgb(210, 182, 141);
+ text-align: center;
+ }
+a:hover {
+
+    color: rgb(3, 61, 42);
+    
+    background-color: blanchedalmond;
+
+}
+a::selection{
+background-color: bisque;
+}
+img{
+    text-align: left;
+}
+a:active {
+
+    color: blanchedalmond;
+}
+a:visited{
+color: black;
+   background-color: rgb(254, 223, 182);
+}
+a{
+    text-decoration: none;
+}
+
+a:active {
+
+    color: blanchedalmond;
+}
+
+button{
+    background-color: rgb(168, 142, 103);
+}
+.p1 {
+    text-align: right;
+    font-size: 20px;
+    
+}
+.p1:hover{
+    color: rgb(0, 100, 194);
+    font-style: italic;
+}
+.p1::selection{
+background-color: blanchedalmond;
+}
